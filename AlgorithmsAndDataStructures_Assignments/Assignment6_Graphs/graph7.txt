@@ -1,0 +1,73 @@
+#this is a text file with a simple graph in it
+#The nodes are: DO NOT CALL ANY VERTEX 'N', otherwise the reading gets wrong (it interprets as Node)
+Node A
+Node B
+Node C
+Node D
+Node E
+Node F
+Node G
+Node H
+Node I
+Node J
+Node K
+Node L
+Node M
+Node N
+Node O
+Node P
+Node Q
+Node R
+Node S
+Node T
+#The cost from-to are:
+A B 1
+A F 32
+A G 40
+B A 1
+B I 2
+C F 2
+D F 3
+D G 1
+E G 3
+E H 2
+F D 3
+F A 32
+F C 2
+G D 1
+G A 40
+G E 3
+H E 2
+H R 40
+H L 1
+H K 1
+I B 2
+I J 2
+J I 2
+J K 40
+J Q 2
+K H 1
+K J 40
+K N 2
+L H 1
+L S 3
+L M 2
+M L 2
+M T 3
+N K 2
+N O 3
+O N 3
+O P 4
+O Q 1
+P O 4
+P Q 20
+Q J 2
+Q O 1
+Q P 20
+R H 40 
+R S 3
+S R 3
+S T 3
+S L 3
+T S 3
+T M 3
