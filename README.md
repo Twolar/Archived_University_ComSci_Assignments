@@ -15,7 +15,7 @@ AlgorithmsAndDataStructures_Assignments
 
 ComputerNetworks_Assignments
 - For this paper's assignments, we were supplied starter code and then had to implement basic versions of concepts
--   we were learning in class.
+   we were learning in class.
 - This included:
 - Creating a Simple Active FTP Server
 - Project for Reliable Data Transfer (UDP)
@@ -25,7 +25,7 @@ ObjectOrientedProgramming
 - For this paper's assignments, There was a total of 2 assignments which were split into 2 parts.
 - Assignment 1
 - I didn't archive Assignment 1, but it was about creating a Basic storage system for town library, which
--   would had a class of type Item from which classes Book, DVD & CD inherited/derived from.
+   would had a class of type Item from which classes Book, DVD & CD inherited/derived from.
 - Assignment 2
 - We had to recreate a basic implementation of std::vector using classes and templating.
 
